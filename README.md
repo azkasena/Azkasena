@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**azkasena/Azkasena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#
+Hii, my name is Azka Avicenna Rasjid  
 
 - 🔭 I’m currently study as informatics student at UPN "Veteran" Jawa Timur, Indonesia
 - 🌱 I’m currently learning Machine learning program with Bangkit Academy with Google, Goto, and Traveloka.
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
