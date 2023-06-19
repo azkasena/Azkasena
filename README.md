@@ -4,7 +4,7 @@
 Hii, my name is Azka Avicenna Rasjid  
 
 - 🔭 I’m currently study as informatics student at UPN "Veteran" Jawa Timur, Indonesia
-- 🌱 I’m currently learning Machine learning program with Bangkit Academy with Google, Goto, and Traveloka.
+- 🌱 I’m currently learning Machine learning program from Bangkit Academy led by Google, Goto, and Traveloka.
 - If you want to know me, follow my [Linkedin](https://www.linkedin.com/in/azkaavicennar/).
 
 <p align="left">
