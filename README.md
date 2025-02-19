@@ -2,8 +2,8 @@
 
 # Hii, my name is Azka Avicenna Rasjid  
 
--  I’m currently study as informatics student at UPN "Veteran" Jawa Timur, Indonesia
--  I’m graduated Machine learning path from Bangkit Academy led by Google, Goto, and Traveloka.
+-  I’m graduated from informatics student at UPN "Veteran" Jawa Timur, Indonesia
+-  Also graduated Machine learning path from Bangkit Academy led by Google, Goto, and Traveloka.
 -  Get to know me at [Linkedin](https://www.linkedin.com/in/azkaavicennar/).
 
 <p align="left">
